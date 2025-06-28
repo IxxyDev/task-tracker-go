@@ -1,0 +1,7 @@
+task-cli
+task-cli.exe # Для Windows
+
+tasks.json
+
+/vendor/
+,
